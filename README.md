@@ -26,10 +26,12 @@ My solutions to LeetCode problems in Python, organized by topic. Solving DSA con
 | [0496-next-greater-element-i](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0901-online-stock-span) |
 ## Design
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -61,4 +63,9 @@ My solutions to LeetCode problems in Python, organized by topic. Solving DSA con
 | ------- |
 | [0496-next-greater-element-i](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
