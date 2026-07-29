@@ -52,6 +52,7 @@ My solutions to LeetCode problems in Python, organized by topic. Solving DSA con
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
@@ -68,4 +69,8 @@ My solutions to LeetCode problems in Python, organized by topic. Solving DSA con
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0901-online-stock-span) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
