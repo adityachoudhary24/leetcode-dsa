@@ -73,4 +73,8 @@ My solutions to LeetCode problems in Python, organized by topic. Solving DSA con
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0238-product-of-array-except-self) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
