@@ -5,6 +5,7 @@ My solutions to LeetCode problems in Python, organized by topic. Solving DSA con
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/1025-divisor-game) |
 ## Dynamic Programming
 |  |
@@ -13,10 +14,12 @@ My solutions to LeetCode problems in Python, organized by topic. Solving DSA con
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/1025-divisor-game) |
 ## Stack
 |  |
@@ -76,5 +79,14 @@ My solutions to LeetCode problems in Python, organized by topic. Solving DSA con
 ## Impartial Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/1025-divisor-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
