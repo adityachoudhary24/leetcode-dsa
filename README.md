@@ -47,6 +47,7 @@ My solutions to LeetCode problems in Python, organized by topic. Solving DSA con
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0844-backspace-string-compare](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0844-backspace-string-compare) |
 ## Simulation
@@ -56,6 +57,7 @@ My solutions to LeetCode problems in Python, organized by topic. Solving DSA con
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0496-next-greater-element-i) |
@@ -95,4 +97,8 @@ My solutions to LeetCode problems in Python, organized by topic. Solving DSA con
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
