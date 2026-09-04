@@ -8,12 +8,14 @@ My solutions to LeetCode problems in Python, organized by topic. Solving DSA con
 | [0009-palindrome-number](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0009-palindrome-number) |
 | [0292-nim-game](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -114,4 +116,12 @@ My solutions to LeetCode problems in Python, organized by topic. Solving DSA con
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
