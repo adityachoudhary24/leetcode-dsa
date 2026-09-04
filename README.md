@@ -66,10 +66,12 @@ My solutions to LeetCode problems in Python, organized by topic. Solving DSA con
 | [0238-product-of-array-except-self](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0503-next-greater-element-ii) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0496-next-greater-element-i) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -105,4 +107,9 @@ My solutions to LeetCode problems in Python, organized by topic. Solving DSA con
 |  |
 | ------- |
 | [0015-3sum](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0015-3sum) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
