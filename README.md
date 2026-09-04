@@ -5,6 +5,7 @@ My solutions to LeetCode problems in Python, organized by topic. Solving DSA con
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0009-palindrome-number) |
 | [0292-nim-game](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0412-fizz-buzz) |
 | [1025-divisor-game](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/1025-divisor-game) |
