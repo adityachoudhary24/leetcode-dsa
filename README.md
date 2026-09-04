@@ -6,6 +6,7 @@ My solutions to LeetCode problems in Python, organized by topic. Solving DSA con
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0292-nim-game) |
+| [0412-fizz-buzz](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0412-fizz-buzz) |
 | [1025-divisor-game](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/1025-divisor-game) |
 ## Dynamic Programming
 |  |
@@ -43,6 +44,7 @@ My solutions to LeetCode problems in Python, organized by topic. Solving DSA con
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0020-valid-parentheses) |
+| [0412-fizz-buzz](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0844-backspace-string-compare) |
 ## Two Pointers
 |  |
@@ -53,6 +55,7 @@ My solutions to LeetCode problems in Python, organized by topic. Solving DSA con
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0844-backspace-string-compare) |
 ## Array
 |  |
