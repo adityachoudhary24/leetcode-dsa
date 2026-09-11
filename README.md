@@ -71,11 +71,13 @@ My solutions to LeetCode problems in Python, organized by topic. Solving DSA con
 | [0496-next-greater-element-i](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0503-next-greater-element-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/3483-unique-3-digit-even-numbers) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -120,8 +122,13 @@ My solutions to LeetCode problems in Python, organized by topic. Solving DSA con
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0509-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
