@@ -71,6 +71,7 @@ My solutions to LeetCode problems in Python, organized by topic. Solving DSA con
 | [0496-next-greater-element-i](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0503-next-greater-element-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -114,10 +115,12 @@ My solutions to LeetCode problems in Python, organized by topic. Solving DSA con
 | ------- |
 | [0015-3sum](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0015-3sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Counting Sort
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Recursion
 |  |
 | ------- |
