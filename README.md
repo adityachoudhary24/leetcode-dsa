@@ -12,6 +12,7 @@ My solutions to LeetCode problems in Python, organized by topic. Solving DSA con
 | [1025-divisor-game](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,6 +74,7 @@ My solutions to LeetCode problems in Python, organized by topic. Solving DSA con
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
