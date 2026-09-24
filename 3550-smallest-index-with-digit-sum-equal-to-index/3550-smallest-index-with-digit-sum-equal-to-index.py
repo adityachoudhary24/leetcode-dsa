@@ -1,0 +1,16 @@
+class Solution:
+    def smallestIndex(self, nums: List[int]) -> int:
+        n = len(nums)
+
+        for i in range(n):
+            x = nums[i]
+            digit_sum = 0
+
+            while x > 0:
+                digit_sum = digit_sum + x % 10
+                x = x // 10
+
+            if digit_sum == i:
+                return i
+
+        return -1
