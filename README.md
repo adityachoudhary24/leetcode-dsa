@@ -37,6 +37,7 @@ My solutions to LeetCode problems in Python, organized by topic. Solving DSA con
 | [0503-next-greater-element-ii](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0901-online-stock-span) |
+| [1096-brace-expansion-ii](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/1096-brace-expansion-ii) |
 ## Design
 |  |
 | ------- |
@@ -52,6 +53,7 @@ My solutions to LeetCode problems in Python, organized by topic. Solving DSA con
 | [0020-valid-parentheses](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0844-backspace-string-compare) |
+| [1096-brace-expansion-ii](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/1096-brace-expansion-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,6 +81,7 @@ My solutions to LeetCode problems in Python, organized by topic. Solving DSA con
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0496-next-greater-element-i) |
+| [1096-brace-expansion-ii](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/3483-unique-3-digit-even-numbers) |
 ## Monotonic Stack
@@ -116,6 +119,7 @@ My solutions to LeetCode problems in Python, organized by topic. Solving DSA con
 |  |
 | ------- |
 | [0015-3sum](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0015-3sum) |
+| [1096-brace-expansion-ii](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Counting Sort
@@ -136,4 +140,12 @@ My solutions to LeetCode problems in Python, organized by topic. Solving DSA con
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/3483-unique-3-digit-even-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
