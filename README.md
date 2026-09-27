@@ -38,6 +38,7 @@ My solutions to LeetCode problems in Python, organized by topic. Solving DSA con
 | [0844-backspace-string-compare](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0901-online-stock-span) |
 | [1096-brace-expansion-ii](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -54,6 +55,7 @@ My solutions to LeetCode problems in Python, organized by topic. Solving DSA con
 | [0412-fizz-buzz](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0844-backspace-string-compare) |
 | [1096-brace-expansion-ii](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
@@ -148,4 +150,8 @@ My solutions to LeetCode problems in Python, organized by topic. Solving DSA con
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/1096-brace-expansion-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
