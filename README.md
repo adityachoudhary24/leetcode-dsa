@@ -53,6 +53,7 @@ My solutions to LeetCode problems in Python, organized by topic. Solving DSA con
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0020-valid-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0301-remove-invalid-parentheses) |
 | [0412-fizz-buzz](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0844-backspace-string-compare) |
 | [1096-brace-expansion-ii](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/1096-brace-expansion-ii) |
@@ -147,10 +148,12 @@ My solutions to LeetCode problems in Python, organized by topic. Solving DSA con
 ## Backtracking
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/1096-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
