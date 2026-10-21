@@ -12,6 +12,7 @@ My solutions to LeetCode problems in Python, organized by topic. Solving DSA con
 | [1025-divisor-game](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [2413-smallest-even-multiple](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/2413-smallest-even-multiple) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Dynamic Programming
 |  |
@@ -160,4 +161,8 @@ My solutions to LeetCode problems in Python, organized by topic. Solving DSA con
 | ------- |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/adityachoudhary24/leetcode-dsa/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
